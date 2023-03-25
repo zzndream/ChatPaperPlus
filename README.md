@@ -7,7 +7,7 @@
 <h1 align="center">ChatPaperPlus</h1>
 <div align="center">
   <a href="https://github.com/zzndream/ChatPaperPlus">
-    <img src="https://github.com/zzndream/ChatPaperPlus/images/home.png" alt="Logo" height="210">
+    <img src="https://github.com/zzndream/ChatPaperPlus/blob/main/images/home.png" alt="Logo" height="210">
   </a>
 
 
